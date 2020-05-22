@@ -9,8 +9,11 @@
  To send the POST request use postman, if you do not have it please download it from here
   
  Postman configurations:
+ 
  URL : http://127.0.0.1:5000/expression
+ 
  Body: {"text":"Base64 encoded image string"}
+ 
  Header: Content-Type:application/json
  
  # For Retrain the model
