@@ -15,6 +15,8 @@
  
  # For Retrain the model
  Create an object from trainer.py and execute train method.
+ 
     traineObject = Trainer()
+    
     traineObject.train()
 
